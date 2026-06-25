@@ -1,5 +1,5 @@
-💰 Experience Based Salary Prediction using Machine Learning
-📌 Project Overview
+##💰 Experience Based Salary Prediction using Machine Learning
+##📌 Project Overview
 This project is a Salary Prediction System developed during my internship. The main objective of this project is to predict an employee's salary based on their years of experience using Machine Learning techniques.
 The system analyzes the relationship between work experience and salary to build a prediction model that estimates the expected salary for a given experience level.
 🎯 Objective
